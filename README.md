@@ -68,6 +68,12 @@ lora_config = LoraConfig(
 )
 # The model is now architecturally incapable of being hijacked.
 ```
+## 📊 Results & Certification.
+<img width="678" height="312" alt="Screenshot (608)" src="https://github.com/user-attachments/assets/46f63a7f-14cd-4359-8869-5612dfae6661" />
+
+---
+<img width="833" height="230" alt="Screenshot (609)" src="https://github.com/user-attachments/assets/984a6f9f-b79f-4664-98ad-4e9f3d6b432e" />
+
 
 ## 📄 Citation
 
