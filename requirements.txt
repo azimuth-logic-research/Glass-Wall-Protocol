@@ -1,0 +1,11 @@
+torch>=2.0.0
+transformers>=4.45.0
+peft
+trl
+datasets
+bitsandbytes
+accelerate
+pillow
+qwen-vl-utils
+pandas
+tqdm
