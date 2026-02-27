@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this protocol, the benchmark suite, or the research data, please cite it as below."
+authors:
+  - family-names: "Alshaer"
+    given-names: "Jamil"
+    orcid: "https://orcid.org/0009-0000-6072-4613" # Add your ORCID if you have one
+title: "The Glass Wall: Enforcing Cognitive Segregation in Large Language Models via Zonal LoRA Hardening"
+version: 1.0.0
+doi: "10.36227/techrxiv.177219982.22869977/v1"
+date-released: 2026-02-27
+url: "https://github.com/azimuth-logic-research/Glass-Wall-Protocol"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Alshaer"
+      given-names: "Jamil"
+  title: "The Glass Wall: Enforcing Cognitive Segregation in Large Language Models via Zonal LoRA Hardening"
+  journal: "TechRxiv"
+  year: 2026
+  month: 2
+  day: 27
+  publisher: "IEEE"
+  doi: "10.36227/techrxiv.177219982.22869977/v1"
