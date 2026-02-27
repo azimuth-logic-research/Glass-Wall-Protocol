@@ -92,7 +92,7 @@ lora_config = LoraConfig(
   month={February},
   day={17},
   publisher={IEEE},
-  doi={under review},
-  url={under review}
+  doi={10.36227/techrxiv.177219982.22869977/v1},
+  url={https://www.techrxiv.org/users/1015425/articles/1390948-the-glass-wall-enforcing-cognitive-segregation-in-large-language-models-via-zonal-lora-hardening}
 }
 .
