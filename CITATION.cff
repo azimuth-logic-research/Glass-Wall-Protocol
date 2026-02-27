@@ -1,9 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this protocol, the benchmark suite, or the research data, please cite it as below."
+message: "If you use this protocol or the benchmark suite, please cite it as below."
 authors:
   - family-names: "Alshaer"
     given-names: "Jamil"
-    orcid: "https://orcid.org/0009-0008-1086-1716"
 title: "The Glass Wall: Enforcing Cognitive Segregation in Large Language Models via Zonal LoRA Hardening"
 version: 1.0.0
 doi: "10.36227/techrxiv.177219982.22869977/v1"
@@ -19,5 +18,6 @@ preferred-citation:
   year: 2026
   month: 2
   day: 27
-  publisher: "IEEE"
+  publisher: 
+    name: "IEEE"
   doi: "10.36227/techrxiv.177219982.22869977/v1"
