@@ -80,19 +80,19 @@ lora_config = LoraConfig(
 ### If you use the Glass Wall Protocol, the VLM benchmark, or the Zonal Segregation logic in your research, please cite the following paper:
 
 **Plain Text:**
-> Jamil Alshaer, "The Glass Wall: Enforcing Cognitive Segregation in Large Language Models via Zonal LoRA Hardening," *TechRxiv*, Feb. 17, 2026. DOI: (Under Review)
+> Jamil Alshaer, "The Glass Wall: Enforcing Cognitive Segregation in Large Language Models via Zonal LoRA Hardening," TechRxiv, Feb. 27, 2026. DOI: 10.36227/techrxiv.177219982.22869977/v1
 
 **BibTeX:**
 ```bibtex
-@article{alshaer2026stoon,
+@article{alshaer2026glasswall,
   title={The Glass Wall: Enforcing Cognitive Segregation in Large Language Models via Zonal LoRA Hardening},
   author={Alshaer, Jamil},
   journal={TechRxiv},
   year={2026},
   month={February},
-  day={17},
+  day={27},
   publisher={IEEE},
   doi={10.36227/techrxiv.177219982.22869977/v1},
-  url={https://www.techrxiv.org/users/1015425/articles/1390948-the-glass-wall-enforcing-cognitive-segregation-in-large-language-models-via-zonal-lora-hardening}
+  url={https://doi.org/10.36227/techrxiv.177219982.22869977/v1}
 }
 .
