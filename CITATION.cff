@@ -3,7 +3,7 @@ message: "If you use this protocol, the benchmark suite, or the research data, p
 authors:
   - family-names: "Alshaer"
     given-names: "Jamil"
-    orcid: "https://orcid.org/0009-0000-6072-4613" # Add your ORCID if you have one
+    orcid: "https://orcid.org/0009-0008-1086-1716"
 title: "The Glass Wall: Enforcing Cognitive Segregation in Large Language Models via Zonal LoRA Hardening"
 version: 1.0.0
 doi: "10.36227/techrxiv.177219982.22869977/v1"
